@@ -12,7 +12,7 @@ public class U5S1G2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(U5S1G2Application.class, args);
-
+		log.info("Main!");
 	}
 
 }
